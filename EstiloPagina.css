@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/590/8/882/vinyl-record-music-vector-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+}
+
+div#vacio{
+Width:100%;
+Height: 600px;
+}
+ 
+div#contenedor{
+Width: 100%;
+Height: 700px;
+Background-image: url(https://img.freepik.com/foto-gratis/composicion-discos-vinilo-laicos-plana_23-2149075955.jpg?w=360&t=st=1721451566~exp=1721452166~hmac=16b2a3c68cae792d8b4e4043ca08f14988d101cabfa0d5b016a07862c1221655);
+}
+ 
+div#back{
+Margin: auto;
+Width: 1500px;
+Height:500px;
+Background-color: blueviolet;
+}
+
+.contenedor{
+display: flex;    
+}
+
+.cuadro{
+height: 300px;
+width: 300px;
+background-color: orange;
+border: 2px solid white;
+}
